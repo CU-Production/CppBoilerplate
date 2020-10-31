@@ -9,3 +9,22 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
+
+####################################
+######## OS generated files ########
+####################################
+.DS_Store
+.DS_Store?
+*.swp
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+###############
+.idea
+cmake-build-debug
+3rd_party/vcpkg.windows
+[Bb]uild
