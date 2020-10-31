@@ -1,0 +1,2 @@
+# CppBoilerplate
+CMake + vcpkg
